@@ -27,4 +27,4 @@ Stop: Pause the movie
 - jupyter_server   : 1.23.4
 
 ## Contact
-Created by Syed Abdul Rahim [@sarpsl] - feel free to contact me!
+Created by Syed Abdul Rahim [@sarpsl] & Rounka Rai [Ron2612] - feel free to contact me!
